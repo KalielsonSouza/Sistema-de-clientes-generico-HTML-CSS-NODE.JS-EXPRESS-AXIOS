@@ -10,6 +10,8 @@
   <img src="/GenericCustomersApplication/m1.png"  title="PRINTm1">
   <p>Mobile responsive 2:</p>
   <img src="/GenericCustomersApplication/m2.png"  title="PRINTm2">
+  <p>Mobile responsive 3:</p>
+  <img src="/GenericCustomersApplication/m3.png"  title="PRINTm3">
   <p>IMAGEM 4:</p>
   <img src="/GenericCustomersApplication/4.png"  title="PRINT4">
   <p>IMAGEM 5:</p>
@@ -19,8 +21,7 @@
   <p>IMAGEM 7:</p>
   <img src="/GenericCustomersApplication/7.png"  title="PRINT7">
  
-   <p>Mobile responsive 3:</p>
-  <img src="/GenericCustomersApplication/m3.png"  title="PRINTm3">
+   
    <p>Mobile responsive 4:</p>
   <img src="/GenericCustomersApplication/m4.png"  title="PRINTm4">
 </p>
